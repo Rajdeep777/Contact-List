@@ -1,0 +1,30 @@
+/* background color of body */
+body{
+    background: #9abede!important;
+    font-family: 'EB Garamond', serif!important;
+}
+
+/* Hover effects on buttons */
+.btn-hover{
+    -webkit-transition: all 0.7s ease-in-out!important;
+    
+}
+
+.btn-hover:hover{
+    -webkit-transform: scale(1.1)!important;
+}
+
+/* contact form */
+.form-bg{
+    background: #8e94d3;
+}
+
+.form-hover{
+    -webkit-transition: all 0.7s ease-in-out!important;
+}
+
+.form-hover:hover{
+    -webkit-transform: scale(1.01)!important;
+    background: #8778a4;
+
+}
